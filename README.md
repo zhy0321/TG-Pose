@@ -8,4 +8,4 @@ Pytorch implementation of TG-Pose: Delving into Topology and Geometry for Catego
 - Pytorch 1.11.0
 - CUDA 12.0
 
-
+The code will be released soon.
